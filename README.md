@@ -3,9 +3,10 @@ App demonstrates how to achieve double collapsing using AppBarLayout + Collapsin
 
 Also there are branch with LIFO collapsing order.
 ## Default Behaviour
-![](screencast/default.gif)
+<img width="33%" src="default.gif">
+
 ## LIFO Behaviour
-![](screencast/LIFO.gif)
+<img width="33%" src="screencast/LIFO.gif">
 
 Checkout **lifo_ordering** branch
 
